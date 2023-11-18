@@ -1,0 +1,33 @@
+h2 {
+    background-color: black;
+    border-radius: 10px;
+    color: #09a009;
+    padding: 10px;
+    white-space: pre-line;
+  }
+  
+
+h1 {
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    background-color: #fff;
+    box-shadow: black 0px 0px 10px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-size: 30px;
+    background-color: rgb(0, 119, 255);
+    color: #000;
+    border-radius: 10px;
+}
